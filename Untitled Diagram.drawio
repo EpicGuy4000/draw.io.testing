@@ -1,14 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T10:45:39.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="Gi6Jmu0cmtPed7ZWWuvl" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T10:54:25.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="mn2WVm7dflwVZ-sW0OGZ" version="13.2.4" type="github">
   <diagram id="tP_9YBKz7C4iITU-Q8Rr" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ko29SWwF32fsja3IIPag-1" value="A Thing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ko29SWwF32fsja3IIPag-2" value="Another Thing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko29SWwF32fsja3IIPag-3" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ko29SWwF32fsja3IIPag-1" target="Ko29SWwF32fsja3IIPag-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ko29SWwF32fsja3IIPag-4" value="Connection between things" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ko29SWwF32fsja3IIPag-3">
+          <mxGeometry x="-0.256" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
